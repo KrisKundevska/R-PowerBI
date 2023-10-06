@@ -3,6 +3,9 @@ This is a small project created as part of my training with Just IT. The tools u
 The data set HollywoodsMostProfitableStories.csv was provided by Just IT.
 This data set was cleaned in R and is then used to creat visualisations in Power BI
 
+
+![image](https://github.com/KrisKundevska/R-PowerBI/assets/143087702/594357ed-77ec-4743-9303-453eea321cb6)
+
 https://app.powerbi.com/groups/me/reports/691a35a8-ae26-405f-9f9d-00e0fb9758a9/ReportSection?experience=power-bi
 
 Retrospective
